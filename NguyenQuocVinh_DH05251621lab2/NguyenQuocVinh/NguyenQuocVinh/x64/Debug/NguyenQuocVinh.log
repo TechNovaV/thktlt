@@ -1,0 +1,5 @@
+﻿  caidat.cpp
+E:\NguyenQuocVinh_DH05251621lab2\NguyenQuocVinh\NguyenQuocVinh\caidat.cpp(92,5): error C2084: function 'int demPTDuong(DaySo)' already has a body
+      E:\NguyenQuocVinh_DH05251621lab2\NguyenQuocVinh\NguyenQuocVinh\caidat.cpp(57,5):
+      see previous definition of 'demPTDuong'
+  
